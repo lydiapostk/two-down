@@ -1,0 +1,2674 @@
+{
+  "id": 24617,
+  "date": "2026-11-06",
+  "constructors": [
+    "Aidan Deshong"
+  ],
+  "editor": "Will Shortz",
+  "copyright": "2026",
+  "width": 15,
+  "height": 15,
+  "cells": [
+    {
+      "black": false,
+      "label": "1",
+      "type": 1,
+      "clues": [
+        0,
+        35
+      ]
+    },
+    {
+      "black": false,
+      "label": "2",
+      "type": 1,
+      "clues": [
+        0,
+        36
+      ]
+    },
+    {
+      "black": false,
+      "label": "3",
+      "type": 1,
+      "clues": [
+        0,
+        37
+      ]
+    },
+    {
+      "black": false,
+      "label": "4",
+      "type": 1,
+      "clues": [
+        0,
+        38
+      ]
+    },
+    {
+      "black": false,
+      "label": "5",
+      "type": 1,
+      "clues": [
+        0,
+        39
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "6",
+      "type": 1,
+      "clues": [
+        1,
+        40
+      ]
+    },
+    {
+      "black": false,
+      "label": "7",
+      "type": 1,
+      "clues": [
+        1,
+        41
+      ]
+    },
+    {
+      "black": false,
+      "label": "8",
+      "type": 1,
+      "clues": [
+        1,
+        42
+      ]
+    },
+    {
+      "black": false,
+      "label": "9",
+      "type": 1,
+      "clues": [
+        1,
+        43
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "10",
+      "type": 1,
+      "clues": [
+        2,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": "11",
+      "type": 1,
+      "clues": [
+        2,
+        45
+      ]
+    },
+    {
+      "black": false,
+      "label": "12",
+      "type": 1,
+      "clues": [
+        2,
+        46
+      ]
+    },
+    {
+      "black": false,
+      "label": "13",
+      "type": 1,
+      "clues": [
+        2,
+        47
+      ]
+    },
+    {
+      "black": false,
+      "label": "14",
+      "type": 1,
+      "clues": [
+        3,
+        35
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        3,
+        36
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        3,
+        37
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        3,
+        38
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        3,
+        39
+      ]
+    },
+    {
+      "black": false,
+      "label": "15",
+      "type": 1,
+      "clues": [
+        3,
+        48
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        3,
+        40
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        3,
+        41
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        3,
+        42
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        3,
+        43
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "16",
+      "type": 1,
+      "clues": [
+        4,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        4,
+        45
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        4,
+        46
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        4,
+        47
+      ]
+    },
+    {
+      "black": false,
+      "label": "17",
+      "type": 1,
+      "clues": [
+        5,
+        35
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        5,
+        36
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        5,
+        37
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        5,
+        38
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        5,
+        39
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        5,
+        48
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        5,
+        40
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        5,
+        41
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        5,
+        42
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        5,
+        43
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "18",
+      "type": 1,
+      "clues": [
+        6,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        6,
+        45
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        6,
+        46
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        6,
+        47
+      ]
+    },
+    {
+      "black": false,
+      "label": "19",
+      "type": 1,
+      "clues": [
+        7,
+        35
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        7,
+        36
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        7,
+        37
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "20",
+      "type": 1,
+      "clues": [
+        8,
+        39
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        8,
+        48
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        8,
+        40
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        8,
+        41
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        8,
+        42
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "21",
+      "type": 1,
+      "clues": [
+        9,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        9,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        9,
+        45
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        9,
+        46
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        9,
+        47
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": true
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "22",
+      "type": 1,
+      "clues": [
+        10,
+        50
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        10,
+        39
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        10,
+        48
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        10,
+        40
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "23",
+      "type": 1,
+      "clues": [
+        11,
+        42
+      ]
+    },
+    {
+      "black": false,
+      "label": "24",
+      "type": 1,
+      "clues": [
+        11,
+        51
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        11,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        11,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        11,
+        45
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        11,
+        46
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        11,
+        47
+      ]
+    },
+    {
+      "black": false,
+      "label": "25",
+      "type": 1,
+      "clues": [
+        12,
+        52
+      ]
+    },
+    {
+      "black": false,
+      "label": "26",
+      "type": 1,
+      "clues": [
+        12,
+        53
+      ]
+    },
+    {
+      "black": false,
+      "label": "27",
+      "type": 1,
+      "clues": [
+        12,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        12,
+        50
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        12,
+        39
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        12,
+        48
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "28",
+      "type": 1,
+      "clues": [
+        13,
+        55
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        13,
+        42
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        13,
+        51
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        13,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        13,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        13,
+        45
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "29",
+      "type": 1,
+      "clues": [
+        14,
+        52
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        14,
+        53
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        14,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        14,
+        50
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        14,
+        39
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "30",
+      "type": 1,
+      "clues": [
+        15,
+        56
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        15,
+        55
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        15,
+        42
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        15,
+        51
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        15,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        15,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        15,
+        45
+      ]
+    },
+    {
+      "black": false,
+      "label": "31",
+      "type": 1,
+      "clues": [
+        15,
+        57
+      ]
+    },
+    {
+      "black": false,
+      "label": "32",
+      "type": 1,
+      "clues": [
+        15,
+        58
+      ]
+    },
+    {
+      "black": false,
+      "label": "33",
+      "type": 1,
+      "clues": [
+        16,
+        52
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        16,
+        53
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        16,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        16,
+        50
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        16,
+        39
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "34",
+      "type": 1,
+      "clues": [
+        17,
+        56
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        17,
+        55
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        17,
+        42
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "35",
+      "type": 1,
+      "clues": [
+        18,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        18,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        18,
+        45
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        18,
+        57
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        18,
+        58
+      ]
+    },
+    {
+      "black": false,
+      "label": "36",
+      "type": 1,
+      "clues": [
+        19,
+        52
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        19,
+        53
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        19,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        19,
+        50
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        19,
+        39
+      ]
+    },
+    {
+      "black": false,
+      "label": "37",
+      "type": 1,
+      "clues": [
+        19,
+        59
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        19,
+        56
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        19,
+        55
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        19,
+        42
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "38",
+      "type": 1,
+      "clues": [
+        20,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        20,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        20,
+        45
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        20,
+        57
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        20,
+        58
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "39",
+      "type": 1,
+      "clues": [
+        21,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        21,
+        50
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        21,
+        39
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        21,
+        59
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        21,
+        56
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        21,
+        55
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "40",
+      "type": 1,
+      "clues": [
+        22,
+        60
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        22,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        22,
+        44
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        22,
+        45
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        22,
+        57
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        22,
+        58
+      ]
+    },
+    {
+      "black": false,
+      "label": "41",
+      "type": 1,
+      "clues": [
+        23,
+        61
+      ]
+    },
+    {
+      "black": false,
+      "label": "42",
+      "type": 1,
+      "clues": [
+        23,
+        62
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        23,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        23,
+        50
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        23,
+        39
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        23,
+        59
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        23,
+        56
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "43",
+      "type": 1,
+      "clues": [
+        24,
+        63
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        24,
+        60
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        24,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        24,
+        44
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": true
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "44",
+      "type": 1,
+      "clues": [
+        25,
+        61
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        25,
+        62
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        25,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        25,
+        50
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        25,
+        39
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "45",
+      "type": 1,
+      "clues": [
+        26,
+        56
+      ]
+    },
+    {
+      "black": false,
+      "label": "46",
+      "type": 1,
+      "clues": [
+        26,
+        64
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        26,
+        63
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        26,
+        60
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        26,
+        49
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "47",
+      "type": 1,
+      "clues": [
+        27,
+        65
+      ]
+    },
+    {
+      "black": false,
+      "label": "48",
+      "type": 1,
+      "clues": [
+        27,
+        66
+      ]
+    },
+    {
+      "black": false,
+      "label": "49",
+      "type": 1,
+      "clues": [
+        27,
+        67
+      ]
+    },
+    {
+      "black": false,
+      "label": "50",
+      "type": 1,
+      "clues": [
+        28,
+        61
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        28,
+        62
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        28,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        28,
+        50
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "51",
+      "type": 1,
+      "clues": [
+        29,
+        68
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        29,
+        56
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        29,
+        64
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        29,
+        63
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        29,
+        60
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        29,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": "52",
+      "type": 1,
+      "clues": [
+        29,
+        69
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        29,
+        65
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        29,
+        66
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        29,
+        67
+      ]
+    },
+    {
+      "black": false,
+      "label": "53",
+      "type": 1,
+      "clues": [
+        30,
+        61
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        30,
+        62
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        30,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        30,
+        50
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "54",
+      "type": 1,
+      "clues": [
+        31,
+        68
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        31,
+        56
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        31,
+        64
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        31,
+        63
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        31,
+        60
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        31,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        31,
+        69
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        31,
+        65
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        31,
+        66
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        31,
+        67
+      ]
+    },
+    {
+      "black": false,
+      "label": "55",
+      "type": 1,
+      "clues": [
+        32,
+        61
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        32,
+        62
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        32,
+        54
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        32,
+        50
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "56",
+      "type": 1,
+      "clues": [
+        33,
+        68
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        33,
+        56
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        33,
+        64
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        33,
+        63
+      ]
+    },
+    {
+      "black": true
+    },
+    {
+      "black": false,
+      "label": "57",
+      "type": 1,
+      "clues": [
+        34,
+        49
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        34,
+        69
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        34,
+        65
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        34,
+        66
+      ]
+    },
+    {
+      "black": false,
+      "label": null,
+      "type": 1,
+      "clues": [
+        34,
+        67
+      ]
+    }
+  ],
+  "clues": {
+    "across": [
+      {
+        "num": "1",
+        "text": "Dating around?",
+        "cells": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "num": "6",
+        "text": "Noodles often served with tsuyu sauce",
+        "cells": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "num": "10",
+        "text": "___ Spalding, 1984 Oscar-winning role for Sally Field",
+        "cells": [
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "num": "14",
+        "text": "\"Pay up!\"",
+        "cells": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      {
+        "num": "16",
+        "text": "Stock exchange?",
+        "cells": [
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      {
+        "num": "17",
+        "text": "Soda once advertised as \"Shockingly refreshing\"",
+        "cells": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      {
+        "num": "18",
+        "text": "City west of Cedar Rapids",
+        "cells": [
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      {
+        "num": "19",
+        "text": "\"Should've known better!\"",
+        "cells": [
+          45,
+          46,
+          47
+        ]
+      },
+      {
+        "num": "20",
+        "text": "Blue Ribbon brewer",
+        "cells": [
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      {
+        "num": "21",
+        "text": "Italian city that lent its name to a color",
+        "cells": [
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      {
+        "num": "22",
+        "text": "Drink served with an extra-wide straw",
+        "cells": [
+          63,
+          64,
+          65,
+          66
+        ]
+      },
+      {
+        "num": "23",
+        "text": "Woman who prefers tabbies over terriers",
+        "cells": [
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ]
+      },
+      {
+        "num": "25",
+        "text": "Theater directors?",
+        "cells": [
+          75,
+          76,
+          77,
+          78,
+          79,
+          80
+        ]
+      },
+      {
+        "num": "28",
+        "text": "Scrolls that may be read from a bimah",
+        "cells": [
+          82,
+          83,
+          84,
+          85,
+          86,
+          87
+        ]
+      },
+      {
+        "num": "29",
+        "text": "Billboard list",
+        "cells": [
+          90,
+          91,
+          92,
+          93,
+          94
+        ]
+      },
+      {
+        "num": "30",
+        "text": "Popular hangout spots of the 1990s",
+        "cells": [
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104
+        ]
+      },
+      {
+        "num": "33",
+        "text": "Video game character with a spiky head",
+        "cells": [
+          105,
+          106,
+          107,
+          108,
+          109
+        ]
+      },
+      {
+        "num": "34",
+        "text": "Article in a French newspaper",
+        "cells": [
+          111,
+          112,
+          113
+        ]
+      },
+      {
+        "num": "35",
+        "text": "Hollywood's Shire or Balsam",
+        "cells": [
+          115,
+          116,
+          117,
+          118,
+          119
+        ]
+      },
+      {
+        "num": "36",
+        "text": "\"Good grief!\"",
+        "cells": [
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128
+        ]
+      },
+      {
+        "num": "38",
+        "text": "Are",
+        "cells": [
+          130,
+          131,
+          132,
+          133,
+          134
+        ]
+      },
+      {
+        "num": "39",
+        "text": "\"Good grief!\"",
+        "cells": [
+          137,
+          138,
+          139,
+          140,
+          141,
+          142
+        ]
+      },
+      {
+        "num": "40",
+        "text": "People believe in them",
+        "cells": [
+          144,
+          145,
+          146,
+          147,
+          148,
+          149
+        ]
+      },
+      {
+        "num": "41",
+        "text": "Item for a desert hike",
+        "cells": [
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156
+        ]
+      },
+      {
+        "num": "43",
+        "text": "Group in blue",
+        "cells": [
+          158,
+          159,
+          160,
+          161
+        ]
+      },
+      {
+        "num": "44",
+        "text": "Ones shopping at a souk, say",
+        "cells": [
+          165,
+          166,
+          167,
+          168,
+          169
+        ]
+      },
+      {
+        "num": "45",
+        "text": "Main role in \"The Nutcracker\"",
+        "cells": [
+          171,
+          172,
+          173,
+          174,
+          175
+        ]
+      },
+      {
+        "num": "47",
+        "text": "Lead-in to face or fix",
+        "cells": [
+          177,
+          178,
+          179
+        ]
+      },
+      {
+        "num": "50",
+        "text": "City north of Chandler",
+        "cells": [
+          180,
+          181,
+          182,
+          183
+        ]
+      },
+      {
+        "num": "51",
+        "text": "\"You should keep that story to yourself\"",
+        "cells": [
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194
+        ]
+      },
+      {
+        "num": "53",
+        "text": "Well-funded group?",
+        "cells": [
+          195,
+          196,
+          197,
+          198
+        ]
+      },
+      {
+        "num": "54",
+        "text": "Reuben sandwich topping",
+        "cells": [
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ]
+      },
+      {
+        "num": "55",
+        "text": "Fire",
+        "cells": [
+          210,
+          211,
+          212,
+          213
+        ]
+      },
+      {
+        "num": "56",
+        "text": "Secondary accounts in online gaming",
+        "cells": [
+          215,
+          216,
+          217,
+          218
+        ]
+      },
+      {
+        "num": "57",
+        "text": "Service replaced by Teams",
+        "cells": [
+          220,
+          221,
+          222,
+          223,
+          224
+        ]
+      }
+    ],
+    "down": [
+      {
+        "num": "1",
+        "text": "Something often signed by friends",
+        "cells": [
+          0,
+          15,
+          30,
+          45
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Sacred bird of ancient Egypt",
+        "cells": [
+          1,
+          16,
+          31,
+          46
+        ]
+      },
+      {
+        "num": "3",
+        "text": "Offend the nostrils",
+        "cells": [
+          2,
+          17,
+          32,
+          47
+        ]
+      },
+      {
+        "num": "4",
+        "text": "Football snapper: Abbr.",
+        "cells": [
+          3,
+          18,
+          33
+        ]
+      },
+      {
+        "num": "5",
+        "text": "JFK and others",
+        "cells": [
+          4,
+          19,
+          34,
+          49,
+          64,
+          79,
+          94,
+          109,
+          124,
+          139,
+          154,
+          169
+        ]
+      },
+      {
+        "num": "6",
+        "text": "Carnival dance",
+        "cells": [
+          6,
+          21,
+          36,
+          51,
+          66
+        ]
+      },
+      {
+        "num": "7",
+        "text": "Kimono closers",
+        "cells": [
+          7,
+          22,
+          37,
+          52
+        ]
+      },
+      {
+        "num": "8",
+        "text": "California's locale, according to natives' lingo",
+        "cells": [
+          8,
+          23,
+          38,
+          53,
+          68,
+          83,
+          98,
+          113,
+          128
+        ]
+      },
+      {
+        "num": "9",
+        "text": "Court figure: Abbr.",
+        "cells": [
+          9,
+          24,
+          39
+        ]
+      },
+      {
+        "num": "10",
+        "text": "Messages sent from @nicrosoft.com addresses, perhaps",
+        "cells": [
+          11,
+          26,
+          41,
+          56,
+          71,
+          86,
+          101,
+          116,
+          131,
+          146,
+          161
+        ]
+      },
+      {
+        "num": "11",
+        "text": "Help line?",
+        "cells": [
+          12,
+          27,
+          42,
+          57,
+          72,
+          87,
+          102,
+          117,
+          132,
+          147
+        ]
+      },
+      {
+        "num": "12",
+        "text": "Without limit",
+        "cells": [
+          13,
+          28,
+          43,
+          58,
+          73
+        ]
+      },
+      {
+        "num": "13",
+        "text": "Certain chemistry test",
+        "cells": [
+          14,
+          29,
+          44,
+          59,
+          74
+        ]
+      },
+      {
+        "num": "15",
+        "text": "Onetime major Scandinavian exports",
+        "cells": [
+          20,
+          35,
+          50,
+          65,
+          80
+        ]
+      },
+      {
+        "num": "21",
+        "text": "Some collections of essentials",
+        "cells": [
+          55,
+          70,
+          85,
+          100,
+          115,
+          130,
+          145,
+          160,
+          175,
+          190,
+          205,
+          220
+        ]
+      },
+      {
+        "num": "22",
+        "text": "\"Give me one moment ...\"",
+        "cells": [
+          63,
+          78,
+          93,
+          108,
+          123,
+          138,
+          153,
+          168,
+          183,
+          198,
+          213
+        ]
+      },
+      {
+        "num": "24",
+        "text": "It's \"what you make others see,\" per Degas",
+        "cells": [
+          69,
+          84,
+          99
+        ]
+      },
+      {
+        "num": "25",
+        "text": "Scripps Institution of Oceanography sch.",
+        "cells": [
+          75,
+          90,
+          105,
+          120
+        ]
+      },
+      {
+        "num": "26",
+        "text": "Cry to a fly",
+        "cells": [
+          76,
+          91,
+          106,
+          121
+        ]
+      },
+      {
+        "num": "27",
+        "text": "\"Give me one moment ...\"",
+        "cells": [
+          77,
+          92,
+          107,
+          122,
+          137,
+          152,
+          167,
+          182,
+          197,
+          212
+        ]
+      },
+      {
+        "num": "28",
+        "text": "Not our",
+        "cells": [
+          82,
+          97,
+          112,
+          127,
+          142
+        ]
+      },
+      {
+        "num": "30",
+        "text": "Greenish black rock?",
+        "cells": [
+          96,
+          111,
+          126,
+          141,
+          156,
+          171,
+          186,
+          201,
+          216
+        ]
+      },
+      {
+        "num": "31",
+        "text": "Soup often drunk directly from the bowl",
+        "cells": [
+          103,
+          118,
+          133,
+          148
+        ]
+      },
+      {
+        "num": "32",
+        "text": "Exams with a median score of about 1030",
+        "cells": [
+          104,
+          119,
+          134,
+          149
+        ]
+      },
+      {
+        "num": "37",
+        "text": "French word in a wedding announcement",
+        "cells": [
+          125,
+          140,
+          155
+        ]
+      },
+      {
+        "num": "40",
+        "text": "Apple device",
+        "cells": [
+          144,
+          159,
+          174,
+          189,
+          204
+        ]
+      },
+      {
+        "num": "41",
+        "text": "Paintball outfits, informally",
+        "cells": [
+          150,
+          165,
+          180,
+          195,
+          210
+        ]
+      },
+      {
+        "num": "42",
+        "text": "Flatbread that might be served with cuajada",
+        "cells": [
+          151,
+          166,
+          181,
+          196,
+          211
+        ]
+      },
+      {
+        "num": "43",
+        "text": "University of Miami athletes, informally",
+        "cells": [
+          158,
+          173,
+          188,
+          203,
+          218
+        ]
+      },
+      {
+        "num": "46",
+        "text": "Uncouth sort",
+        "cells": [
+          172,
+          187,
+          202,
+          217
+        ]
+      },
+      {
+        "num": "47",
+        "text": "Speak to a higher-up?",
+        "cells": [
+          177,
+          192,
+          207,
+          222
+        ]
+      },
+      {
+        "num": "48",
+        "text": "Volunteer for more",
+        "cells": [
+          178,
+          193,
+          208,
+          223
+        ]
+      },
+      {
+        "num": "49",
+        "text": "Ciudad del ___, Paraguay's second-largest city",
+        "cells": [
+          179,
+          194,
+          209,
+          224
+        ]
+      },
+      {
+        "num": "51",
+        "text": "Largest employer of mathematicians in the U.S., for short",
+        "cells": [
+          185,
+          200,
+          215
+        ]
+      },
+      {
+        "num": "52",
+        "text": "Noted animal shelter",
+        "cells": [
+          191,
+          206,
+          221
+        ]
+      }
+    ]
+  }
+}
